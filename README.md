@@ -1,5 +1,5 @@
 # Custom slider with Rive animation
-![](https://github.com/nexlay/rive_custom_slider_android/blob/master/assets/git/gif.gif)
+![](https://github.com/nexlay/custom_slider_with_rive/blob/master/assets/git/gif.gif)
 # Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
